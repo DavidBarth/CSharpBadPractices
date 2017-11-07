@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FC4D9C32-48B7-4379-B826-A4A0171D986B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharpBadPractices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpBadPractices/Class1.cs">
+    <Files>
+      <File FileName="CSharpBadPractices/Class1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

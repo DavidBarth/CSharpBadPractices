@@ -1,0 +1,9 @@
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/bin/Debug/netcoreapp1.1/CSharpBadPractices.deps.json
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/bin/Debug/netcoreapp1.1/CSharpBadPractices.runtimeconfig.json
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/bin/Debug/netcoreapp1.1/CSharpBadPractices.runtimeconfig.dev.json
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/bin/Debug/netcoreapp1.1/CSharpBadPractices.dll
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/bin/Debug/netcoreapp1.1/CSharpBadPractices.pdb
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/obj/Debug/netcoreapp1.1/CSharpBadPractices.csprojResolveAssemblyReference.cache
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/obj/Debug/netcoreapp1.1/CSharpBadPractices.AssemblyInfo.cs
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/obj/Debug/netcoreapp1.1/CSharpBadPractices.dll
+/Users/davidbarth/Projects/CSharpBadPractices/CSharpBadPractices/obj/Debug/netcoreapp1.1/CSharpBadPractices.pdb

@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/davidbarth/.nuget/packages"
+    ]
+  }
+}
